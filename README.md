@@ -9,7 +9,7 @@ Skills: Terraform , Ansible , Docke , Jenkins , Zabbix , AWS , GCP .
 
 
 - 🔭 I’m currently working on this page ,   
-- 
+
 - 🌱 I’m currently learning IaC , Kubernets     
 
 ![Bruno Gomes Sanches GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnnnxd&show_icons=true)
