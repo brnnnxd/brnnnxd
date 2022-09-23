@@ -4,8 +4,7 @@
 :hammer_and_wrench: currently studying to become an Architect Cloud / Devops.  
 
 
-Skills: Terraform , Ansible , Docke , Jenkins , Zabbix , AWS , GCP .  
-
+Skills: CI/CD, Terraform, Ansible, Docker, Jenkins, Zabbix, AWS, GCP.  
 
 
 - 🔭 I’m currently working on this page ,   
