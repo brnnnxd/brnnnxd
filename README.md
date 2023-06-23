@@ -1,15 +1,30 @@
-### Hi there 👋, my name is Bruno   
+# Bruno's GitHub Page
+
+Hello! 👋 My name is Bruno, I'm a Cloud Architect/DevOps . Welcome to my GitHub page!
+
+## Skills
+
+- Kubernetes
+- Terraform
+- Docker
+- AWS
+- GCP
+- CI/CD (Gitlab, Bitbuckte)
+- APM (New Relic, Datadog, Jaeger)
+- Ansible
 
 
-:hammer_and_wrench: currently studying to become an Architect Cloud / Devops.  
+## Current Focus
 
+ 🚧 I'm currently working on improving this page and showcasing my projects and contributions to the open-source community.
 
-Skills: CI/CD, Terraform, Ansible, Docker, Jenkins, Zabbix, AWS, GCP.  
+## Learning
 
+🌱 I am currently focused on achieving the CKA (Certified Kubernetes Administrator) certification, becoming proficient in programming, and learning Test-Driven Development (TDD) practices.
 
-- 🔭 I’m currently working on this page ,   
+Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, please feel free to reach out!
 
-- 🌱 I’m currently learning IaC , Kubernets     
+Happy coding! 😄
 
 ![Bruno Gomes Sanches GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnnnxd&show_icons=true)
 
