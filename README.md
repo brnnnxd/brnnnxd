@@ -26,7 +26,7 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 Happy coding! 😄
 
-![Bruno Gomes Sanches GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnnnxd&show_icons=true)
+![Bruno Gomes Sanches GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnnnxd&show_icons=true&theme=dracula)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](bgomessanches)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brnnnxd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brunogomessanches/)  
